@@ -1,5 +1,5 @@
 body {
-    background-color: #0f4b43;
+    background-color: #1E1E1E;
 }
 
 section {
@@ -11,5 +11,9 @@ justify-content: left;
     background: #0F0F13;
     margin: 64px;
     border-radius: 20px;
-    padding: 90px;
+    padding: 186px;
+}
+
+h1 {
+    color: #E9E9E9;
 }
